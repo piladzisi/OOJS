@@ -6,3 +6,5 @@ const ernie = {
         console.log('Woof!');
     }
 }
+
+console.log(ernie.age);
